@@ -1,3 +1,3 @@
-# blog
+# Laravel blog sample
 
-#Just code sample, no .env or db uploaded.
+#Just code, no .env or db uploaded.
